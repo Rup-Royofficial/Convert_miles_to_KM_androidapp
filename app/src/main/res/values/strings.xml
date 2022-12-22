@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConvertMilestoKM</string>
+    <string name="convert_km_to_miles">Convert Km To Miles</string>
+</resources>
